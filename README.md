@@ -1,2 +1,2 @@
-# Multidialogo.github.io
+# multidialogo.github.io
 GH page for Multidialogo
