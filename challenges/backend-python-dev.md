@@ -5,7 +5,7 @@ Pick up one of the contribution challenges, and start contributing to the relati
 
 Almost every challenge consists in delivering a working feature pull request to one of the milestones currently opened on our projects.
 
-Any project has a contribution guideline that must be respect in order to become acceptable.
+Any project has a contribution guideline that must be respect in order to contribute.
 
 ## Challenges by project
 
