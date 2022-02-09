@@ -12,5 +12,9 @@ Any project has a contribution guideline that must be respect in order to become
 ### Team building platform
 See the [project page](https://github.com/Multidialogo/teambuilding-app) and its [contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/main/CONTRIBUTING.md).
 
-#### Milestones
+#### Active Milestones
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
+
+#### Previous Milestones
+
+* Taste and purchase
