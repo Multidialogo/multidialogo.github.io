@@ -11,10 +11,10 @@ https://github.com/Multidialogo/teambuilding-app
 
 ## We are hiring!
 
-### Open positions
+### Open positions 
 
-- https://multidialogo.breezy.hr/p/ad020106a18a01-backend-web-developer
-- https://multidialogo.breezy.hr/p/ae20e176bf1e01-web-developer-stage
+- https://multidialogo.breezy.hr/p/ad020106a18a01-backend-web-developer Parma (Italy) + remote
+- https://multidialogo.breezy.hr/p/ae20e176bf1e01-web-developer-stage Parma (Italy)
 
 ### Development challenges
 
