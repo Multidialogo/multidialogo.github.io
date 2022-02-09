@@ -27,9 +27,9 @@ We are looking for motivated team mates to join us and so contributing to our pr
 
 Here is our challenges list:
 
-| Position | Stack           | Challenges                                                                    | Active challenges |
-|----------|-----------------|-------------------------------------------------------------------------------|-------------------|
-| Backend  | Python\Django   | [Visit...](https://multidialogo.github.io/challenges/backend-python-dev.html) | 1                 |
-| Backend  | php             | [Visit...]( https://multidialogo.github.io/challenges/backend-php-dev.html)   | 0                 |
-| Backend  | Java\Spring     | [Visit...]( https://multidialogo.github.io/challenges/backend-java-dev.html)  | 0                 |
-| Devops   | AWS\Docker      | [Visit...]( https://multidialogo.github.io/challenges/devops.html)            | 0                 |
+| Position | Stack           | Challenges                                                                                        | Active challenges |
+|----------|-----------------|---------------------------------------------------------------------------------------------------|-------------------|
+| Backend  | Python\Django   | [Visit Python challenges page](https://multidialogo.github.io/challenges/backend-python-dev.html) | 1                 |
+| Backend  | php             | [Visit php challenges page]( https://multidialogo.github.io/challenges/backend-php-dev.html)      | 0                 |
+| Backend  | Java\Spring     | [Visit Java challenges page]( https://multidialogo.github.io/challenges/backend-java-dev.html)    | 0                 |
+| Devops   | AWS\Docker      | [Visit Devops challenges page]( https://multidialogo.github.io/challenges/devops.html)            | 0                 |
