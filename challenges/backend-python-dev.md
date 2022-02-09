@@ -10,7 +10,8 @@ Any project has a contribution guideline that must be respect in order to contri
 ## Challenges by project
 
 ### Team building platform
-See the [project page](https://github.com/Multidialogo/teambuilding-app) and its [contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/main/CONTRIBUTING.md).
+See the [project page](https://github.com/Multidialogo/teambuilding-app) and its 
+[contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/main/CONTRIBUTING.md).
 
 #### Active Milestones
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
