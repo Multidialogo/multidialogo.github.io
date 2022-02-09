@@ -9,9 +9,8 @@
 
 ## Come partecipare?
 Scegli una tra le challenge attive, clona la relativa repository di provisioning, implementa le feature richieste 
-seguendo le linee guida contenute nella challenge stessa.
-
-Consultare la sezione [documentazione](#documentazione) per ulteriori info.
+seguendo le linee guida contenute nella challenge stessa. 
+[Challenge quickstart](https://multidialogo.github.io/docs/empty)
 
 ## Lista challenge attive
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
