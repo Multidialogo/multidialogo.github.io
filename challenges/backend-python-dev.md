@@ -16,7 +16,7 @@ seguendo le linee guida contenute nella challenge stessa.
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
 
 ## Documentazione
-* [Empty](../docs/empty)
+* [Empty](https://multidialogo.github.io/docs/empty)
 * Dolor etc
 
 Manca qualcosa? [faccelo sapere](#contact)
