@@ -7,7 +7,7 @@ Almost every challenge consists in delivering a working feature pull request to 
 
 Any project has a contribution guideline that must be respect in order to become acceptable.
 
-## Challenges by projects
+## Challenges by project
 
 ### Team building platform
 See the [project page](https://github.com/Multidialogo/teambuilding-app) and its [contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/main/CONTRIBUTING.md).
