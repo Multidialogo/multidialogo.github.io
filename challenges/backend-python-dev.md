@@ -1,4 +1,4 @@
-# Backend Python Developer Challenges
+# Backend Python developer challenges
 
 Following pages contain our active contribution challenges for the Python backend web developer position.
 Pick up one of the contribution challenges, and start contributing to the relative repository.
