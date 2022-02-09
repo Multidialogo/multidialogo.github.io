@@ -1,26 +1,28 @@
 # Backend Python Developer Challenges
 Lorem ipsum dolor etc
 
-## Table of contents
-* [How to partecipate](#how-to-partecipate)
-* [List of active challenges](#list-of-active-challenges)
-* [Documentation](#documentation)
-* [License](#license)
-* [Contact](#contact)
+## Tabella dei contenuti
+* [Come partecipare?](#how-to-partecipate)
+* [Lista challenge attive](#list-of-active-challenges)
+* [Documentazione](#documentation)
+* [Licenza](#license)
+* [Contattaci](#contact)
 
-## How to partecipate
-Lorem ipsum dolor etc
+## Come partecipare?
+Scegli una tra le challenge attive, clona la relativa repository di provisioning, implementa le feature richieste 
+seguendo le linee guida contenute nella challenge stessa.
 
-## List of active challenges
-* Lorem ipsum
+## Lista challenge attive
+* [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
+
+## Documentazione
+* [Empty](../docs/empty)
 * Dolor etc
 
-## Documentation
-* Lorem ipsum
-* Dolor etc
+Manca qualcosa? [faccelo sapere](#contact)
 
-## License
-Lorem ipsum dolor etc
+## Licenza
+Inserire info licenza
 
-## Contact
-Lorem ipsum dolor etc
+## Contattaci
+Per ulteriori informazioni non esitate a contattarci alla mail [selezione@multidialogo.it](selezione@multidialogo.it)
