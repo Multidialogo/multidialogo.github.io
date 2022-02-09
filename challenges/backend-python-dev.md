@@ -17,8 +17,9 @@ Consultare la sezione [documentazione](#documentazione) per ulteriori info.
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
 
 ## Cosa é la Piattaforma Teambuilding?
-Inserire breve descrizione della piattaforma teambuilding. Ulteriori info risponibili al seugente 
-[link](https://multidialogo.github.io/docs/empty).
+Inserire breve descrizione della piattaforma teambuilding. 
+
+Ulteriori info disponibili al seguente [link](https://multidialogo.github.io/docs/empty).
 
 ## Documentazione
 * [Challenge quickstart](https://multidialogo.github.io/docs/empty)
