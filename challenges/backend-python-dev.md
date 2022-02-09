@@ -2,11 +2,11 @@
 Lorem ipsum dolor etc
 
 ## Tabella dei contenuti
-* [Come partecipare?](#how-to-partecipate)
-* [Lista challenge attive](#list-of-active-challenges)
-* [Documentazione](#documentation)
-* [Licenza](#license)
-* [Contattaci](#contact)
+* [Come partecipare?](#come-partecipare)
+* [Lista challenge attive](#lista-challenge-attive)
+* [Documentazione](#documentazione)
+* [Licenza](#licenza)
+* [Contattaci](#contattaci)
 
 ## Come partecipare?
 Scegli una tra le challenge attive, clona la relativa repository di provisioning, implementa le feature richieste 
