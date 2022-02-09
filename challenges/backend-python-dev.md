@@ -1,5 +1,4 @@
 # Backend Python Developer Challenges
-Lorem ipsum dolor etc
 
 ## Tabella dei contenuti
 * [Come partecipare?](#come-partecipare)
@@ -12,14 +11,24 @@ Lorem ipsum dolor etc
 Scegli una tra le challenge attive, clona la relativa repository di provisioning, implementa le feature richieste 
 seguendo le linee guida contenute nella challenge stessa.
 
+Consultare la sezione [documentazione](#documentazione) per ulteriori info.
+
 ## Lista challenge attive
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
 
-## Documentazione
-* [Empty](https://multidialogo.github.io/docs/empty)
-* Dolor etc
+## Cosa é la Piattaforma Teambuilding?
+Inserire breve descrizione della piattaforma teambuilding. Ulteriori info risponibili al seugente 
+[link](https://multidialogo.github.io/docs/empty).
 
-Manca qualcosa? Faccelo sapere!
+## Documentazione
+* [Challenge quickstart](https://multidialogo.github.io/docs/empty)
+
+##### Linguaggio e framework:
+* [Docker](https://docs.docker.com/get-started/overview/)
+* [Django](https://docs.djangoproject.com/en/4.0/)
+* [Coding style (Django)](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/)
+* [Coding style (Python)](https://www.python.org/dev/peps/pep-0008/)
+* [Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
 
 ## Licenza
 Inserire info licenza
