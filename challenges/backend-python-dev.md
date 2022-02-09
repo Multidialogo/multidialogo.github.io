@@ -19,10 +19,10 @@ seguendo le linee guida contenute nella challenge stessa.
 * [Empty](https://multidialogo.github.io/docs/empty)
 * Dolor etc
 
-Manca qualcosa? [faccelo sapere](#contact)
+Manca qualcosa? Faccelo sapere!
 
 ## Licenza
 Inserire info licenza
 
 ## Contattaci
-Per ulteriori informazioni non esitate a contattarci alla mail [selezione@multidialogo.it](selezione@multidialogo.it)
+Per ulteriori informazioni non esitate a contattarci alla mail [selezione@multidialogo.it](mailto:selezione@multidialogo.it)
