@@ -2,18 +2,18 @@
 Lorem ipsum dolor etc
 
 ## Table of contents
-* [List of active challenges](#list-of-active-challenges)
 * [How to partecipate](#how-to-partecipate)
+* [List of active challenges](#list-of-active-challenges)
 * [Documentation](#documentation)
 * [License](#license)
 * [Contact](#contact)
 
+## How to partecipate
+Lorem ipsum dolor etc
+
 ## List of active challenges
 * Lorem ipsum
 * Dolor etc
-
-## How to partecipate
-Lorem ipsum dolor etc
 
 ## Documentation
 * Lorem ipsum
