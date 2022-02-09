@@ -10,6 +10,8 @@ https://github.com/Multidialogo/teambuilding-app
 
 
 ## We are hiring!
+Multidialogo is hiring sofware developers for its headquarter in Parma.
+For non-entry-level position we offer remote working.
 
 ### Open positions 
 
@@ -17,6 +19,9 @@ https://github.com/Multidialogo/teambuilding-app
 - https://multidialogo.breezy.hr/p/ae20e176bf1e01-web-developer-stage Parma (Italy)
 
 ### Development challenges
+Join one of ours Multidialogo development challenges.
+We love community and also to share our code trought open source side projects.
+We are looking for motivated team mates to join us and so contributing to our projects on github is an exceptional way to get in contact with our development team and start knowing us and our values.
 
 #### Python backend developer
 
