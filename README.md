@@ -10,7 +10,7 @@ We love community and also to share our code trought open source side projects.
 https://github.com/Multidialogo/teambuilding-app
 
 ## We are hiring!
-In Multidialogo we are hiring sofware developers for the Parma (Italy).
+In Multidialogo we are hiring sofware developers for the Parma (Italy) headquarter.
 For non-entry-level position we also offer remote working.
 
 ### Open positions 
