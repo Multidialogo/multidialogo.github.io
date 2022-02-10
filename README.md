@@ -33,10 +33,10 @@ Here is our challenges list, to participate follow the instructions provided wit
 
 | Position | Stack           | Challenges                                                                                   | Active | Assigned | Past |
 |----------|-----------------|----------------------------------------------------------------------------------------------|--------|----------|------|
-| Devops   | AWS\Docker      | [Visit Devops challenges page]( https://multidialogo.github.io/challenges/devops)            | 0      |0         |      |
-| Backend  | Python\Django   | [Visit Python challenges page](https://multidialogo.github.io/challenges/backend-python-dev) | 1      |0         |      |
-| Backend  | php             | [Visit php challenges page]( https://multidialogo.github.io/challenges/backend-php-dev)      | 0      |0         |      |
-| Backend  | Java\Spring     | [Visit Java challenges page]( https://multidialogo.github.io/challenges/backend-java-dev)    | 0      |0         |      |
-| Frontend | Javascipt\Node  | [Visit Frontend challenges page]( https://multidialogo.github.io/challenges/frontend-dev)    | 0      |0         |      |
-| Designer |                 | [Visit Design challenges page]( https://multidialogo.github.io/challenges/designer)          | 0      |0         |      |
+| Devops   | AWS\Docker      | [Visit Devops challenges page]( https://multidialogo.github.io/challenges/devops)            | 0      |0         |0     |
+| Backend  | Python\Django   | [Visit Python challenges page](https://multidialogo.github.io/challenges/backend-python-dev) | 1      |0         |0     |
+| Backend  | php             | [Visit php challenges page]( https://multidialogo.github.io/challenges/backend-php-dev)      | 0      |0         |0     |
+| Backend  | Java\Spring     | [Visit Java challenges page]( https://multidialogo.github.io/challenges/backend-java-dev)    | 0      |0         |0     |
+| Frontend | Javascipt\Node  | [Visit Frontend challenges page]( https://multidialogo.github.io/challenges/frontend-dev)    | 0      |0         |0     |
+| Designer |                 | [Visit Design challenges page]( https://multidialogo.github.io/challenges/designer)          | 0      |0         |0     |
 
