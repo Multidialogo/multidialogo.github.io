@@ -23,7 +23,7 @@ Here you can find some of our open positions for the development team:
 - [Web developer stage](https://multidialogo.breezy.hr/p/ae20e176bf1e01-web-developer-stage) Parma (Italy)
 
 ### Development challenges
-Join one of ours **Multidialogo development challenges*tempestivamente in inglese*!
+Join one of ours **Multidialogo development challenges**!
 
 We are looking for motivated team mates to join us and so contributing to our projects on github is an exceptional way to get in contact with our development team and start knowing us and our values.
 
