@@ -1,6 +1,8 @@
 # Multidialogo
 
-https://www.multidialogo.it
+[Multidialogo](https://www.multidialogo.it) is a service company based in Italy.
+
+We offer a suite of web based services dealing with multichannel messaging (postal, email, certfied email, fax, sms, [Multicerta](https://www.multicerta.it)), in critical context where the communication and its feedback need to be promptly guaranted to the sender with legal value compliance.
 
 ## Open source projects
 We love community and also to share our code trought open source side projects.
@@ -21,7 +23,7 @@ Here you can find some of our open positions for the development team:
 - [Web developer stage](https://multidialogo.breezy.hr/p/ae20e176bf1e01-web-developer-stage) Parma (Italy)
 
 ### Development challenges
-Join one of ours **Multidialogo development challenges**!
+Join one of ours **Multidialogo development challenges*tempestivamente in inglese*!
 
 We are looking for motivated team mates to join us and so contributing to our projects on github is an exceptional way to get in contact with our development team and start knowing us and our values.
 
