@@ -27,12 +27,12 @@ We are looking for motivated team mates to join us and so contributing to our pr
 
 Here is our challenges list, to participate follow the instructions provided with the links:
 
-| Position | Stack           | Challenges                                                                                   | Active challenges | Assigned |
-|----------|-----------------|----------------------------------------------------------------------------------------------|-------------------|----------|
-| Devops   | AWS\Docker      | [Visit Devops challenges page]( https://multidialogo.github.io/challenges/devops)            | 0                 |0         |
-| Backend  | Python\Django   | [Visit Python challenges page](https://multidialogo.github.io/challenges/backend-python-dev) | 1                 |0         |
-| Backend  | php             | [Visit php challenges page]( https://multidialogo.github.io/challenges/backend-php-dev)      | 0                 |0         |
-| Backend  | Java\Spring     | [Visit Java challenges page]( https://multidialogo.github.io/challenges/backend-java-dev)    | 0                 |0         |
-| Frontend | Javascipt\Node  | [Visit Frontend challenges page]( https://multidialogo.github.io/challenges/frontend)        | 0                 |0         |
-| Design   |                 | [Visit Design challenges page]( https://multidialogo.github.io/challenges/design)            | 0                 |0         |
+| Position | Stack           | Challenges                                                                                   | Active | Assigned | Past |
+|----------|-----------------|----------------------------------------------------------------------------------------------|--------|----------|------|
+| Devops   | AWS\Docker      | [Visit Devops challenges page]( https://multidialogo.github.io/challenges/devops)            | 0      |0         |      |
+| Backend  | Python\Django   | [Visit Python challenges page](https://multidialogo.github.io/challenges/backend-python-dev) | 1      |0         |      |
+| Backend  | php             | [Visit php challenges page]( https://multidialogo.github.io/challenges/backend-php-dev)      | 0      |0         |      |
+| Backend  | Java\Spring     | [Visit Java challenges page]( https://multidialogo.github.io/challenges/backend-java-dev)    | 0      |0         |      |
+| Frontend | Javascipt\Node  | [Visit Frontend challenges page]( https://multidialogo.github.io/challenges/frontend)        | 0      |0         |      |
+| Design   |                 | [Visit Design challenges page]( https://multidialogo.github.io/challenges/design)            | 0      |0         |      |
 
