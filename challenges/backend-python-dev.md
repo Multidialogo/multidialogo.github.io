@@ -9,12 +9,23 @@ Any project has a contribution guideline that must be respect in order to contri
 
 ## Challenges by project
 
+We maintain different projects.
+Any challenge has been tought as a contribution Milestone on the github repository.
+
+Here follow a list of active projects and relative milestones.
+
 ### Team building platform
-See the [project page](https://github.com/Multidialogo/teambuilding-app) and its 
-[contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/develop/CONTRIBUTING.md).
+
+#### Contributing guidelines
+
+[see for contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/develop/CONTRIBUTING.md).
 
 #### Active Milestones
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
+* [Book club](https://github.com/Multidialogo/teambuilding-app/milestone/todo)
+* [Secret Santa](https://github.com/Multidialogo/teambuilding-app/milestone/todo)
+* [Cineforum](https://github.com/Multidialogo/teambuilding-app/milestone/todo)
+
 
 #### Previous Milestones
 
