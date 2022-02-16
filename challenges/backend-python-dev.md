@@ -18,7 +18,7 @@ Here follow a list of active projects and relative milestones.
 
 #### Contributing guidelines
 
-[see for contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/develop/CONTRIBUTING.md).
+[Read contributing guidelines](https://github.com/Multidialogo/teambuilding-app/blob/develop/CONTRIBUTING.md).
 
 #### Active Milestones
 * [Lunch Roulette](https://github.com/Multidialogo/teambuilding-app/milestone/1)
