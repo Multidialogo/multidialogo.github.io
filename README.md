@@ -11,6 +11,8 @@ We love community and also to share our code trought open source side projects.
 
 ### Team building platform
 
+The team building platform is our internal software we use to organize activities between colleagues, it's open  source and we are glad to share it to the community in order to improve it and share the fun.
+
 [Team building platform](https://github.com/Multidialogo/teambuilding-app)
 
 ## We are hiring!
