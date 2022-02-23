@@ -1,7 +1,15 @@
+.wrapper-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.wrapper-flex .flex-grow {
+    flex-grow: 1;
+}
+
 .site-masthead {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 15px;
-  padding-bottom: 15px;
+    padding: 16px;
+    width: 64px;
+    height: 64px;
 }
