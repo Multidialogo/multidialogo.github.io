@@ -1,0 +1,92 @@
+@charset "UTF-8";
+html {
+  font: 300 62.5%/1 Roboto, sans-serif; }
+
+body {
+  font-size: 1.5rem;
+  font-family: "Roboto", sans-serif; }
+
+.wrapper-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center; }
+  .wrapper-flex .flex-grow {
+    flex-grow: 1; }
+
+/* Main content */
+.page-content {
+  padding: 4rem 0;
+  /* List */
+  /* Table  */ }
+  .page-content h2 {
+    margin: 2rem 0 1rem;
+    color: #11254b;
+    font-size: 1.9rem;
+    font-weight: 500; }
+  .page-content h3 {
+    margin: 2rem 0 1rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #ed5a23; }
+  .page-content h4 {
+    margin: 2rem 0 1rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #11254b;
+    line-height: 1.6; }
+  .page-content p {
+    margin-bottom: 1rem; }
+    .page-content p > a {
+      color: #11254b;
+      font-weight: 600; }
+      .page-content p > a:hover {
+        color: #ed5a23; }
+  .page-content ul {
+    list-style: none;
+    margin: 1rem 0 2rem;
+    padding: 0; }
+    .page-content ul li {
+      margin-bottom: 1rem; }
+      .page-content ul li a {
+        text-decoration: none;
+        margin-right: 1rem;
+        color: #11254b !important; }
+        .page-content ul li a:hover {
+          color: #ed5a23 !important; }
+        .page-content ul li a:before {
+          font-family: "Font Awesome 5 Free";
+          content: "";
+          display: inline-block;
+          vertical-align: middle;
+          font-weight: 900;
+          font-size: 1rem;
+          margin-right: 0.8rem;
+          color: #ed5a23; }
+  .page-content table {
+    margin: 2rem 0 0;
+    border: none; }
+    .page-content table thead tr {
+      box-shadow: 0 0 0 1px #11254b; }
+    .page-content table thead th {
+      font-weight: 500;
+      background: #11254b;
+      color: #fff;
+      border: none;
+      height: 5rem; }
+    .page-content table tbody tr {
+      box-shadow: 0 0 0 1px #f1f1f1; }
+      .page-content table tbody tr td {
+        font-weight: 400;
+        height: 5rem;
+        min-height: 10rem;
+        border: none; }
+        .page-content table tbody tr td a {
+          color: #11254b !important;
+          font-weight: 500; }
+          .page-content table tbody tr td a:hover {
+            color: #ed5a23 !important; }
+    .page-content table tbody tr:nth-child(even) {
+      background: #f1f1f1; }
+    .page-content table tbody tr:first-child {
+      box-shadow: 0 1px 0 1px #f1f1f1; }
