@@ -5,7 +5,7 @@
   color: #11254b;
   background: #f1f1f1; }
   .site-footer > .wrapper {
-    height: 11.5rem; }
+    padding: 3rem; }
     .site-footer > .wrapper .logo {
       display: inline-block; }
       .site-footer > .wrapper .logo > img {
