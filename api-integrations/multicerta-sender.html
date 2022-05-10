@@ -9,15 +9,15 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Multidialogo Engineering" />
 <meta property="og:description" content="Multidialogo Engineering" />
-<link rel="canonical" href="https://engineering.multidialogo.it/api-integration.html" />
-<meta property="og:url" content="https://engineering.multidialogo.it/api-integration.html" />
+<link rel="canonical" href="https://engineering.multidialogo.it/api-integrations/multicerta-sender.html" />
+<meta property="og:url" content="https://engineering.multidialogo.it/api-integrations/multicerta-sender.html" />
 <meta property="og:site_name" content="Multidialogo" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Multidialogo Engineering - Multidialogo software development team’s home page" />
 <meta name="twitter:site" content="@multidialogo" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Multidialogo Engineering","headline":"Multidialogo Engineering - Multidialogo software development team’s home page","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://engineering.multidialogo.it/assets/logo_sito.png"}},"url":"https://engineering.multidialogo.it/api-integration.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Multidialogo Engineering","headline":"Multidialogo Engineering - Multidialogo software development team’s home page","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://engineering.multidialogo.it/assets/logo_sito.png"}},"url":"https://engineering.multidialogo.it/api-integrations/multicerta-sender.html"}</script>
 <!-- End Jekyll SEO tag -->
 <meta name="image" property="og:image" content="https://engineering.multidialogo.it/assets/MD-eng-2.png">
     <meta name="robots" CONTENT="index, follow">
@@ -47,30 +47,29 @@
                 <li class="d-flex justify-content-between align-items-center"><a href="/challenges/java.html">Java challenges<i class="fa-brands fa-java" style="font-size: 2.4rem;"></i></a></li>
                 <li class="d-flex justify-content-between align-items-center"><a href="/challenges/frontend.html">Frontend challenges<i class="fa-brands fa-html5" style="font-size: 2.1rem;"></i></a></li>
                 <li class="d-flex justify-content-between align-items-center"><a href="/challenges/designer.html">Design challenges<i class="fas fa-bezier-curve"></i></a></li>
+                <li class="d-flex justify-content-between align-items-center"><a href="/api-integrations/">API integrations<i class="fa-solid" style="font-size: 1.8rem;"></i></a></li>
                 <li class="d-flex justify-content-between align-items-center"><a href="https://multidialogo.breezy.hr/" target=”_blank”>Work with us<i class="fas fa-briefcase" style="font-size: 1.8rem;"></i></a></li>
                 <li class="d-flex justify-content-between align-items-center"><a href="">Blog<i class="fas fa-comment-dots" style="font-size: 1.8rem;"></i></a></li>
             </ul>
         </div>
     </div>
-</header><main class="page-content" aria-label="Content">
-    <div class="wrapper">
-        
-<h3 id="multidialogo">Multidialogo</h3>
-<p>Invio di messaggi multicanale (email, pec, posta ordinaria, sms, Multicerta)</p>
+</header><!-- Additional google fonts -->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
 
-<p><a href="https://rest.multidialogo.it/doc/open-api/0.0.1.json">Download</a></p>
+<!-- Temporary CSS fixes, TODO refactor -->
+<style>
+    main.page-content {
+        padding: 0;
+    }
 
-<h3 id="multicerta">Multicerta</h3>
-<p>Messaggi istantanei con valore legale (con brevetto europeo)</p>
+    .page-content th {
+        background-color: transparent;
+    }
+</style>
 
-<p><a href="https://api.multicerta.it/03010601/doc/open-api/current.json">Download</a></p>
+<main class="page-content" aria-label="Content">
 
-<h3 id="multifatture">Multifatture</h3>
-<p>Riceve, conserva, e contabilizza le fatture</p>
-
-<p><a href="https://external.multifatture.it/03010401/doc/open-api/current.json">Download</a></p>
-
-    </div>
+    <redoc spec-url='https://developers.netbuilder.it/multicerta/api/multicerta-sender-api.json'></redoc>
 </main><footer class="site-footer">
     <div class="wrapper wrapper-flex d-block d-sm-flex" >
         <a class="logo" href="/"><img class="icon-footer" src="/assets/MD-logo.svg" alt="logo-multidialogo" /></a>
@@ -90,6 +89,6 @@
             else element.classList.remove("open");
         }
     </script>
-</footer><!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>--></body>
+</footer><script src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js"></script><!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>--></body>
 
 </html>
