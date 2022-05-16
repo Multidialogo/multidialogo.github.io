@@ -3,26 +3,26 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Multidialogo Engineering - Multidialogo software development team’s home page | Multidialogo</title>
+<title>Multidialogo Engineering - Software development team core values | Multidialogo</title>
 <meta name="generator" content="Jekyll v3.8.7" />
-<meta property="og:title" content="Multidialogo Engineering - Multidialogo software development team’s home page" />
+<meta property="og:title" content="Multidialogo Engineering - Software development team core values" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Multidialogo Engineering" />
-<meta property="og:description" content="Multidialogo Engineering" />
-<link rel="canonical" href="https://engineering.multidialogo.it/api-integrations/multicerta-app.html" />
-<meta property="og:url" content="https://engineering.multidialogo.it/api-integrations/multicerta-app.html" />
+<meta name="description" content="Multidialogo software development team: Agile, best practices and inclusiveness." />
+<meta property="og:description" content="Multidialogo software development team: Agile, best practices and inclusiveness." />
+<link rel="canonical" href="http://0.0.0.0:4000/values.html" />
+<meta property="og:url" content="http://0.0.0.0:4000/values.html" />
 <meta property="og:site_name" content="Multidialogo" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Multidialogo Engineering - Multidialogo software development team’s home page" />
+<meta property="twitter:title" content="Multidialogo Engineering - Software development team core values" />
 <meta name="twitter:site" content="@multidialogo" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Multidialogo Engineering","headline":"Multidialogo Engineering - Multidialogo software development team’s home page","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://engineering.multidialogo.it/assets/logo_sito.png"}},"url":"https://engineering.multidialogo.it/api-integrations/multicerta-app.html"}</script>
+{"@context":"https://schema.org","@type":"WebPage","description":"Multidialogo software development team: Agile, best practices and inclusiveness.","headline":"Multidialogo Engineering - Software development team core values","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://0.0.0.0:4000/assets/logo_sito.png"}},"url":"http://0.0.0.0:4000/values.html"}</script>
 <!-- End Jekyll SEO tag -->
-<meta name="image" property="og:image" content="https://engineering.multidialogo.it/assets/MD-eng-2.png">
+<meta name="image" property="og:image" content="http://0.0.0.0:4000/assets/MD-eng-2.png">
     <meta name="robots" CONTENT="index, follow">
 
-    <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://engineering.multidialogo.it/feed.xml" title="Multidialogo" /><!-- Boostrap -->
+    <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://0.0.0.0:4000/feed.xml" title="Multidialogo" /><!-- Boostrap -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 <!-- Google fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -53,23 +53,73 @@
             </ul>
         </div>
     </div>
-</header><!-- Additional google fonts -->
-<link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700" rel="stylesheet">
+</header><main class="page-content" aria-label="Content">
+    <div class="wrapper">
+        <p>Our team believes in strong values based on best practices and inclusiveness towards new members.</p>
 
-<!-- Temporary CSS fixes, TODO refactor -->
-<style>
-    main.page-content {
-        padding: 0;
-    }
+<p>In this page we will describe which these are and why we are adopting and promoting them.</p>
 
-    .page-content th {
-        background-color: transparent;
-    }
-</style>
+<h2 id="agility">Agility</h2>
 
-<main class="page-content" aria-label="Content">
+<p>We have implemented in our daily routine almost of the Agile ceremonies what makes our work day organized and strongly
+communication based.</p>
 
-    <redoc spec-url='https://developers.netbuilder.it/multicerta/api/multicerta-api.json'></redoc>
+<p>“No one told me”, “I don’t know how to do this”, “I’m stuck no one helps me”, are statements you will never hear in our
+team.</p>
+
+<h3 id="daily-stand-ups">Daily stand-ups</h3>
+
+<p>We do daily morning stand-up meetings.</p>
+
+<p>Every day at 09:45am CET we have our google meet appointment where we see each other, also if working in different 
+headquarters or from home.</p>
+
+<p>We have very fast and effective update briefings, were we told each other what we have done the previous day and what we
+are going to do today.</p>
+
+<p>We also notice to the team if we have roadblocks and we need some help.</p>
+
+<h3 id="shared-knowledge">Shared knowledge</h3>
+
+<p>If you work as software developer, of course you know Stack Overflow (™ Stack Exchange Inc.), as the place where 
+to ask for help or find answer to common problems.</p>
+
+<p>We chosen to give a try to “Stack Overflow for teams” (™ Stack Exchange Inc.) in order to get rid of continuous 
+and repeated question among the departments (marketing, customer care, engineering, sales…).</p>
+
+<h3 id="fully-functional-local-provisioning">Fully functional local provisioning</h3>
+
+<p>We maintain a large number of inter-operating services and microservices.
+In order to make team members comfortable to work on any piece of the infrastructure we maintain a one click build copy
+of the whole to be available directly on our workstations, also if working from remote also including the integration
+test routines to ensure everything is working fine before deploying on remote environments.</p>
+
+<p>Any member of the team is supposed and asked to maintain the local provisioning infrastructure clean and functional, in
+order to not have others caring about mechanism of services that are distal from his competency area.</p>
+
+<h3 id="continuous-integration">Continuous integration</h3>
+
+<p>We like to work as much comfortable is possible.
+Given this why put our maximum effort in developing our services in a way that does not causes emergencies or 
+unpredictable changes.</p>
+
+<p>To achieve this goal continuous integration is the best practice we are following to drive our workflow.</p>
+
+<p>As mentioned we have fully functional local provisioning for our project, unit and integration tests and least but not 
+last standardized and maintained automatic deploy procedures strictly linked with the usage of git and git flow.</p>
+
+<p>In other words any stage of software development is registered, rollback-able and the release in stage or production 
+environment is only consequent to the merge on an “historical significant branch (usually main and develop)”.</p>
+
+<h3 id="code-review">Code review</h3>
+
+<p>We adopted the mechanism of pull-request and code-review in order to have the code double checked and improved 
+collaboratively.</p>
+
+<p>If you want to know more about our daily routines and work flows feel free to get in contact with us writing at the 
+following email: site.data.companies[multidialogo].email .</p>
+
+    </div>
 </main><footer class="site-footer">
     <div class="wrapper wrapper-flex d-block d-sm-flex" >
         <a class="logo" href="/"><img class="icon-footer" src="/assets/MD-logo.svg" alt="logo-multidialogo" /></a>
@@ -89,6 +139,6 @@
             else element.classList.remove("open");
         }
     </script>
-</footer><script src="https://cdn.jsdelivr.net/npm/redoc@next/bundles/redoc.standalone.js"></script><!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>--></body>
+</footer><!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>--></body>
 
 </html>
