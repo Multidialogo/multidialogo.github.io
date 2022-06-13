@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://engineering.multidialogo.it/blog/en/gsm-7-specification</loc>
+<lastmod>2022-06-08T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://engineering.multidialogo.it/blog/it/codifica-gsm-7</loc>
+<lastmod>2022-06-08T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://engineering.multidialogo.it/challenges/designer.html</loc>
 </url>
 <url>
@@ -10,7 +18,16 @@
 <loc>https://engineering.multidialogo.it/challenges/frontend.html</loc>
 </url>
 <url>
+<loc>https://engineering.multidialogo.it/blog/it/</loc>
+</url>
+<url>
+<loc>https://engineering.multidialogo.it/blog/</loc>
+</url>
+<url>
 <loc>https://engineering.multidialogo.it/api-integrations/</loc>
+</url>
+<url>
+<loc>https://engineering.multidialogo.it/blog/en/</loc>
 </url>
 <url>
 <loc>https://engineering.multidialogo.it/</loc>
