@@ -21,10 +21,10 @@
 <loc>https://engineering.multidialogo.it/blog/</loc>
 </url>
 <url>
-<loc>https://engineering.multidialogo.it/api-integrations/</loc>
+<loc>https://engineering.multidialogo.it/blog/it/</loc>
 </url>
 <url>
-<loc>https://engineering.multidialogo.it/blog/it/</loc>
+<loc>https://engineering.multidialogo.it/api-integrations/</loc>
 </url>
 <url>
 <loc>https://engineering.multidialogo.it/blog/en/</loc>
@@ -45,6 +45,9 @@
 <loc>https://engineering.multidialogo.it/api-integrations/multidialogo.html</loc>
 </url>
 <url>
+<loc>https://engineering.multidialogo.it/api-integrations/multifatture-integration.html</loc>
+</url>
+<url>
 <loc>https://engineering.multidialogo.it/api-integrations/multifatture.html</loc>
 </url>
 <url>
@@ -58,6 +61,6 @@
 </url>
 <url>
 <loc>https://engineering.multidialogo.it/google4bbeef87a2061578.html</loc>
-<lastmod>2022-09-08T03:49:38-05:00</lastmod>
+<lastmod>2023-10-04T07:12:05-05:00</lastmod>
 </url>
 </urlset>
